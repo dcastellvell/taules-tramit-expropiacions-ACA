@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/taules_tramit" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
